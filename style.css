@@ -366,6 +366,10 @@ hr {
   .project-image {
     width: 90%
   }
+  .project-image img{
+    width: 90%;
+    height: auto;
+  }
   .about-me{
     flex-direction: column;
     align-items: center;
